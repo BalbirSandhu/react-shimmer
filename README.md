@@ -6,9 +6,9 @@ React component for skeleton loading states, built using **Tailwind CSS** utilit
 
 ## Features
 
-- ⚛️ Modular components: `Banner`, `TextBlock`, `ProductCards`, etc.
-- 🎨 Customizable shape, aspect ratio, and layout
-- 🚀 Lightweight and easy to integrate
+- Modular components: `Banner`, `TextBlock`, `ProductCards`, etc.
+- Customizable shape, aspect ratio, and layout
+- Lightweight and easy to integrate
 
 ---
 
